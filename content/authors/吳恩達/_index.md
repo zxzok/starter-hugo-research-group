@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Nanjing Medical University
+    url: www.njmu.edu.cn
 superuser: false
 authors:
   - 吳恩達
@@ -37,7 +37,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: zhangxizhe@njmu.edu.cn
 user_groups:
   - Researchers
   - Visitors
